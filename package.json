@@ -1,0 +1,11 @@
+{
+    "name": "@lyra-white/saltcorn-third-party-api-plugin",
+    "version": "1.0.0",
+    "description": "saltcorn third party api",
+    "main": "index.js",
+    "dependencies": {
+      "@saltcorn/data": "^0.7.0"
+    },
+    "author": "Lyra White",
+    "license": "MIT"
+}
